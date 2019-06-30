@@ -60,7 +60,7 @@
                     }
                 });
                 $('.cc-cvc').each(function () {
-                    if (!$.payment.validateCardCVC($(this).val(),$.payment.cardType($('.cc-number').val()))) {
+                    if (!$.payment.validateCardCVC($(this).val(), $.payment.cardType($('.cc-number').val()))) {
                         isValid = false;
                         $(this).css({
                             "border": "1px solid red",
@@ -79,12 +79,16 @@
             });
         });
     });
-
-    /*$(function(){
-        if(!$.payment.validateCardNumber($('.cc-number').val()) ) {
-            $('.cc-number').setCustomValidity("Неправильный номер карты");
+    $(function () {
+        $('#phone')[0].oninvalid = function () {
+            this.setCustomValidity("Неверный номер телефона");
         };
-    });*/
+    });
+    $(function () {
+        $('#phone')[0].oninput = function () {
+            this.setCustomValidity("");
+        };
+    });
     /*  $(function () {
           $('.cc-number')[0].oninput = function () {
               this.setCustomValidity("");
@@ -151,7 +155,7 @@
                     <span class="b-mts__phone-code" data-clearable_fld="">
                     +7<input class="b-input b-input_phone b-input_selected" id="phone" name="phone" type="tel"
                              maxlength="15"
-                             autocomplete="off" data-check="phone" pattern="[A-Za-z0-9]{1,20}">
+                             autocomplete="off" required pattern="[A-Za-z0-9]{1,20}">
                 </span>
                     <div class="b-mts__info" data-lang-html="form_receipt">на этот номер будет отправлено
                         уведомление об оплате
@@ -207,7 +211,7 @@
                                 <div class="b-creditcard__cardholder-wrap">
                                     <div class="b-creditcard__label" data-lang-html="form_name">Имя</div>
                                     <input class="b-input b-input_card_holder" name="lastname" id="card-holder"
-                                           name="cardholder"
+                                           name="cardholder" required pattern="[A-Za-z0-9]{1,20}"
                                            type="text" data-check="cardHolder" placeholder="Ваше имя">
                                 </div>
                             </div>
