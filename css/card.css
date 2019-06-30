@@ -156,11 +156,17 @@
     background: linear-gradient(50deg, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0));
     pointer-events: none;
 }
-
+.error-message{
+    display: none;
+}
 .no-pointerevents .form-3 p:nth-child(1):before {
     display: none;
 }
-
+.form{
+    margin: 0 auto;
+    padding: 15px 0 0 5px; text-align: center;
+    font-family: Arial;
+}
 
 .cl-effect-15 a {
     color: rgb(0, 145, 175);
@@ -1239,7 +1245,7 @@ body, html {
 
 .b-creditcard__back .b-creditcard__label {
     float: right;
-    margin: 17px -10px 0 0;
+    margin: 17px 3px 0 0;
     font-size: 11px;
     text-align: center;
     font-family: Roboto, sans-serif

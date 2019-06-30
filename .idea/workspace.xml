@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42547340-33c9-43a4-a776-2237a47f0be2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PayPage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PayPage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspayment.html" beforeDir="false" afterPath="$PROJECT_DIR$/jspayment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/newIndex.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,13 +17,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/card.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2025">
-              <caret line="900" column="21" selection-start-line="900" selection-start-column="21" selection-end-line="900" selection-end-column="21" />
+            <state relative-caret-position="740">
+              <caret line="183" column="30" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -24,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+            <state relative-caret-position="3587">
+              <caret line="211" selection-start-line="211" selection-end-line="211" />
             </state>
           </provider>
         </entry>
@@ -33,11 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newIndex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="590">
+              <caret line="70" column="41" lean-forward="true" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -63,8 +68,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jspayment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="50" selection-start-line="64" selection-start-column="11" selection-end-line="65" selection-end-column="50" />
+            <state relative-caret-position="267">
+              <caret line="36" column="111" lean-forward="true" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jquery.payment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="514" column="38" selection-start-line="514" selection-start-column="25" selection-end-line="514" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -81,29 +95,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nameFF</find>
-      <find>card-num</find>
-      <find>b-creditcard__line</find>
-      <find>.b-input_card_date</find>
-      <find>headerlog</find>
-      <find>form</find>
-      <find>headerloggg</find>
-      <find>nomertel</find>
-      <find>b-mts__label b-mts__label-padding29</find>
-      <find>b-mts__line b-mts__line_margin</find>
-      <find>header</find>
-      <find>.headerlog</find>
-      <find>account</find>
-      <find>https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js</find>
-      <find>phone</find>
-      <find>senderDate</find>
-      <find>name=</find>
-      <find>data-check</find>
-      <find>cc-number</find>
-      <find>data-numeric</find>
-      <find>b-mts__info</find>
-      <find>button</find>
-      <find>b-mts__area</find>
       <find>phone_</find>
       <find>require</find>
       <find>required</find>
@@ -111,6 +102,29 @@
       <find>headerlogg</find>
       <find>heade</find>
       <find>.headerloggg</find>
+      <find>form_cvv</find>
+      <find>class</find>
+      <find>платит</find>
+      <find>.b-creditcard__back .b-creditcard__label</find>
+      <find>.form</find>
+      <find>card.</find>
+      <find>screen</find>
+      <find>&quot;amount&quot;</find>
+      <find>.form-group</find>
+      <find>form-group</find>
+      <find>data-numeric</find>
+      <find>amount</find>
+      <find>&lt;input</find>
+      <find>formatcar</find>
+      <find>validatecardnum</find>
+      <find>validateCardNum</find>
+      <find>cc-cvc</find>
+      <find>formatCardNumber</find>
+      <find>cardExpiryVal</find>
+      <find>cc-number</find>
+      <find>validation</find>
+      <find>has-error</find>
+      <find>form</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -118,23 +132,33 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/jquery.payment.js" />
         <option value="$PROJECT_DIR$/lib/jquery.payment.min.js" />
-        <option value="$PROJECT_DIR$/jspayment.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/newIndex.html" />
         <option value="$PROJECT_DIR$/css/card.css" />
+        <option value="$PROJECT_DIR$/jspayment.html" />
+        <option value="$PROJECT_DIR$/newIndex.html" />
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="width" value="1292" />
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
     <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -143,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,27 +174,36 @@
               <item name="PayPage" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PayPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/security" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Zim\PhpstormProjects\untitled1\security" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zim\PhpstormProjects\untitled1\security" />
       <recent name="C:\Users\Zim\PhpstormProjects\untitled1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zim\PhpstormProjects\untitled1\security" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -211,7 +243,8 @@
       <workItem from="1559405994525" duration="1466000" />
       <workItem from="1561219024752" duration="8120000" />
       <workItem from="1561675988424" duration="1255000" />
-      <workItem from="1561903486991" duration="2048000" />
+      <workItem from="1561903486991" duration="6195000" />
+      <workItem from="1561921862668" duration="11265000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1561903906035</created>
@@ -241,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561905378877</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First commit">
+      <created>1561905950213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561905950213</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -250,16 +290,15 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16203000" />
+    <option name="totallyTimeSpent" value="31615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="1292" height="1407" extended-state="0" />
+    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2150974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13290113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" sideWeight="0.4991883" weight="0.32967034" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4991883" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991883" weight="0.32967034" />
@@ -270,8 +309,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4991883" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.1310832" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008117" side_tool="true" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.57617503" visible="true" weight="0.1310832" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.42382497" side_tool="true" visible="true" weight="0.1310832" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="12" sideWeight="0.4991883" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4991883" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -302,38 +343,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.payment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="586" column="25" lean-forward="true" selection-start-line="586" selection-start-column="25" selection-end-line="586" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="900" column="21" selection-start-line="900" selection-start-column="21" selection-end-line="900" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jspayment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="50" selection-start-line="64" selection-start-column="11" selection-end-line="65" selection-end-column="50" />
+        <state relative-caret-position="3587">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
         </state>
       </provider>
     </entry>
@@ -344,13 +357,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/card.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="183" column="30" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.payment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="514" column="38" selection-start-line="514" selection-start-column="25" selection-end-line="514" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspayment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="36" column="111" lean-forward="true" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/newIndex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="590">
+          <caret line="70" column="41" lean-forward="true" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
         </state>
       </provider>
     </entry>
