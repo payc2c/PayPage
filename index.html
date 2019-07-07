@@ -23,11 +23,6 @@
         $('.cc-number').payment('formatCardNumber');
         $('.cc-exp').payment('formatCardExpiry');
         $('.cc-cvc').payment('formatCardCVC');
-        /* $(function () {
-             $('.cc-number')[0].oninvalid = function () {
-                 this.setCustomValidity($.payment.validateCardNumber($('.cc-number').val()));
-             };
-         });*/
         $(document).ready(function () {
             $('form').submit(function (e) {
                 var isValid = true;
@@ -89,31 +84,7 @@
             this.setCustomValidity("");
         };
     });
-    /*  $(function () {
-          $('.cc-number')[0].oninput = function () {
-              this.setCustomValidity("");
-          };
-      });$(function(){
-          $('.cc-exp')[0].oninvalid = function () {
-              this.setCustomValidity("Неправильный срок действия карты");
-          };
-      });
-      $(function(){
-          $('.cc-cvc')[0].oninvalid = function () {
-              this.setCustomValidity("Неправильный CVV");
-          };
-      });
 
-      $(function () {
-          $('.cc-exp')[0].oninput = function () {
-              this.setCustomValidity("");
-          };
-      });
-      $(function () {
-          $('.cc-cvc')[0].oninput = function () {
-              this.setCustomValidity("");
-          };
-    });*/
 </script>
 
 <div class="show-on-mobile">
