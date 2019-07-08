@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42547340-33c9-43a4-a776-2237a47f0be2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sms/error_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sms/images/Payment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sms/img/verified_logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sms/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sms/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sms/style/sms.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/security/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/security/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sms/sms.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +38,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="105" column="14" lean-forward="true" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/security/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -63,7 +47,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sms/index.php">
+        <entry file="file://$PROJECT_DIR$/sms/sms.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
@@ -80,11 +64,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php.ini">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sms/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="876">
-              <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+            <state relative-caret-position="534">
+              <caret line="133" column="31" lean-forward="true" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -119,7 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>require</find>
       <find>required</find>
       <find>StolenShit</find>
       <find>headerlogg</find>
@@ -149,6 +146,7 @@
       <find>has-error</find>
       <find>form</find>
       <find>securi</find>
+      <find>sms.ph</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -167,10 +165,10 @@
         <option value="$PROJECT_DIR$/css/card.css" />
         <option value="$PROJECT_DIR$/jspayment.html" />
         <option value="$PROJECT_DIR$/newIndex.html" />
-        <option value="$PROJECT_DIR$/security/index.html" />
         <option value="$PROJECT_DIR$/sms/sms.php" />
         <option value="$PROJECT_DIR$/security/index.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/security/index.html" />
         <option value="$PROJECT_DIR$/sms/index.html" />
       </list>
     </option>
@@ -219,6 +217,24 @@
               <item name="untitled1" type="462c0819:PsiDirectoryNode" />
               <item name="sms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PayPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PayPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -235,7 +251,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -285,7 +301,7 @@
       <workItem from="1561675988424" duration="1255000" />
       <workItem from="1561903486991" duration="6195000" />
       <workItem from="1561921862668" duration="12425000" />
-      <workItem from="1562539124780" duration="2647000" />
+      <workItem from="1562539124780" duration="6707000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1561903906035</created>
@@ -336,7 +352,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561936653774</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final version. Php testing needed">
+      <created>1562541926886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562541926886</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ini and access">
+      <created>1562544732354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562544732354</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -351,7 +381,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35422000" />
+    <option name="totallyTimeSpent" value="39482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
@@ -374,7 +404,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.57536465" weight="0.1310832" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5802269" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="12" sideWeight="0.4991883" weight="0.32967034" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4991883" weight="0.32967034" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4991883" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -387,7 +417,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Validation finally works" />
-    <option name="LAST_COMMIT_MESSAGE" value="Validation finally works" />
+    <MESSAGE value="Final version. Php testing needed" />
+    <MESSAGE value="ini and access" />
+    <option name="LAST_COMMIT_MESSAGE" value="ini and access" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,24 +477,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="105" column="14" lean-forward="true" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sms/index.php">
+    <entry file="file://$PROJECT_DIR$/sms/sms.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/security/index.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="350">
+          <caret line="210" column="18" lean-forward="true" selection-start-line="210" selection-start-column="18" selection-end-line="210" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -473,10 +498,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sms/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+        <state relative-caret-position="534">
+          <caret line="133" column="31" lean-forward="true" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
         </state>
       </provider>
     </entry>
